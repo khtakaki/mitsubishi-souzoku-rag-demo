@@ -1,0 +1,9 @@
+# Secrets (APIキーを含むため絶対にGitHubにアップロードしない)
+.streamlit/secrets.toml
+
+# Cache files
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
